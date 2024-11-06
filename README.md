@@ -1,3 +1,3 @@
 # Gatcha-Simulation
 
-This is a program that simulates how much it would cost to complete the "gacha" containing seven different prizes. Additionally, the results of the simulation are saved in a CSV file.
+This program simulates how much it would cost to complete a “gacha” with 7 different prizes. The simulation results are saved in a CSV file.
